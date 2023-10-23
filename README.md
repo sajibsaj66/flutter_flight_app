@@ -60,7 +60,7 @@ This project is a starting point for a Flutter application.
 
 # Result
 
-<img src="https://github.com/sajibsaj66/flutter_flight_app/assets/15973463/bc4f9a7e-8313-4674-8afb-0ca7ffd8aca8" height="400">
+https://github.com/sajibsaj66/flutter_flight_app/assets/15973463/bc4f9a7e-8313-4674-8afb-0ca7ffd8aca8
 
 
 
